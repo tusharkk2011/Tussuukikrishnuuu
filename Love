@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You ❤️</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{
+      margin:0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(120deg,#ff9a9e,#fad0c4);
+      text-align:center;
+      color:#fff;
+      padding:20px;
+    }
+    h1{ font-size:28px; }
+    p{ font-size:18px; }
+    .card{
+      background: rgba(255,255,255,0.15);
+      padding:20px;
+      border-radius:15px;
+      margin-top:20px;
+    }
+    button{
+      padding:12px 20px;
+      font-size:18px;
+      border:none;
+      border-radius:25px;
+      background:#ff3366;
+      color:white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Hey ❤️</h1>
+
+  <div class="card">
+    <p>
+      Jab bhi tum muskuraati ho  
+      <br>meri duniya roshan ho jaati hai ✨
+    </p>
+  </div>
+
+  <div class="card">
+    <p>
+      Main perfect nahi hoon  
+      <br>lekin tumhare liye hamesha loyal rahunga 💍
+    </p>
+  </div>
+
+  <div class="card">
+    <p>
+      Krishna Babu ❤️  
+      <br>tum meri zindagi ka sabse khoobsurat hissa ho
+    </p>
+  </div>
+
+  <div class="card">
+    <h1>Will you be mine forever? 💖</h1>
+    <button>YES 💞</button>
+  </div>
+
+</body>
+</html>
